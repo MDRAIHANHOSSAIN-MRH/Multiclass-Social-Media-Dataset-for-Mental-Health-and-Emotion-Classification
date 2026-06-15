@@ -35,4 +35,7 @@ The dataset is structured into 6 distinct classes, capturing both standard emoti
 5. USAGE & CITATION
 -------------------
 If you use this dataset in your research, please cite the Mendeley Data DOI provided on the main repository page.
+Link: https://data.mendeley.com/datasets/rw57wvg6z2/2
+Cite this Dataset:
+HOSSAIN, MD RAIHAN (2026), “Multiclass Social Media Dataset for Mental Health and Emotion Classification”, Mendeley Data, V2, doi: 10.17632/rw57wvg6z2.2
 ========================================================================
